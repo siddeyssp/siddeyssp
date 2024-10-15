@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Siddharth
-- 👀 I’m interested in penetration testing
-- 🌱 I’m currently learning more and more about penetration testing
+- 👀 I’m a penetration tester and Security researcher
+- 🌱 Looking Forward to make some difference in the World.
 
 <!---
 siddeyssp/siddeyssp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
